@@ -60,11 +60,3 @@ mvn test
 ```
 
 ---
-
-## Notlar
-
-* Projede Page Object Model (POM) yapısı kullanıldı
-* Driver yönetimi BaseTest üzerinden merkezi şekilde yapıldı
-* Testler `@Tag("smoke")` ile işaretlendi, böylece sadece smoke testler çalıştırılabilir
-
----
